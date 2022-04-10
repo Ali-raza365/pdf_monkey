@@ -1,0 +1,18 @@
+{
+  "firstname": "tommy",
+  "lastname": "vres",
+  "email": "boye.finn@gmail.com",
+  "datetoday": "April 2, 2020",
+  "DopamineDeficiency":20,
+  "AcetylcholineDeficiency":13,
+  "GABaDeficiency":32,
+  "SerotoninDeficiency":12,
+  "donutChart": {
+    "labels": ["Dopamine", "Acetylcholine", "GABA", "Serotonin"],
+    "values": [50, 45, 32, 22]
+  },
+  "barChart": {
+    "labels": ["Dopamine","Acetylcholine", "GABA", "Serotonin"],
+    "data":[-13, -5, -9, -8 ]
+  }
+}
