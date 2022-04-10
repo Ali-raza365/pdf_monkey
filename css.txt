@@ -1,0 +1,23 @@
+// Import Tailwind CSS.
+// More info : https://tailwindcss.com
+@import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
+
+  
+table, th, td {
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+td{
+  border-bottom: 1px solid #ccc;
+}
+tr.border_bottom td {
+  border-bottom: 1px solid black;
+}
+.pageBreak {
+  page-break-before: always;
+}
+      
+  
