@@ -1,0 +1,452 @@
+
+<script src="https://bernii.github.io/gauge.js/dist/gauge.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+     <!-- Step 2 - Include the fusion theme -->
+     <script type="text/javascript"
+          src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+    
+
+<div class="firstPage">
+<h1 class="text-center">Braverman Test - Your report</h1>
+</div>
+
+<div class="form-control">
+          <h3>first Name:</h3>
+          <p>{{firstname}}</p>
+     </div>
+     <div class="form-control">
+          <h3>Last Name:</h3>
+          <p>{{lastname}}</p>
+     </div>
+     <div class="form-control">
+          <h3>Email:</h3>
+          <p>{{email}}</p>
+     </div>
+     <div class="form-control">
+          <h3>Date of test:</h3>
+          <p>{{datetoday}}</p>
+     </div>
+     
+     
+  <h3 class="text-center heading">Neurotransmitter profile of your dominant nature</h1>
+     
+  <div id="sources" style="width:800px;height:500px" class="Chart-conatiner"></div>
+  
+  <h3 class="text-center heading">You are Dopamine dominant.</h1>
+
+<p class="font-14">Congratulations! You are Dopamine dominant. 
+Dopamine nature is associated with high-voltage beta waves from your brain, dopamine affects the power of your body and mind. High-dopamine individuals like yourself are often powerful, reflexively fast, and quick-witted. When feeling well, people with dopamine natures have a very sharp edge. 
+</p>
+
+<p class="font-14">
+  As a dopamine nature, you are among approximately 17% of the world’s population. You thrive on energy. When your dopamine production is balanced, you are likely to be a strong-willed individual who knows exactly what you want and how to get it. You’re fast on your feet and self-confident. You’re highly rational, more comfortable with facts and figures than with feelings and emotions. You are able to assess yourself critically, yet you generally do not respond well to criticism or accept negative feedback from others.
+</p>
+<p class="font-14">
+  You focus intently and persistently on the task at hand and take pride in achievement. Strategic thinking, masterminding, inventing, problem solving, envisioning, and pragmatism are exciting, and you function well under stress. These skills lend themselves to positions requiring complex knowledge and/or detailed planning. A majority of doctors, scientists, researchers, inventors, engineers, generals, and architects are likely to be dopamine-dominant. But this does not preclude other professions from dopamine natures: dopamine-dominant people can be found in every walk of life. 
+</p>
+<p class="mb-20">
+  With a dopamine nature, you’re most likely to be interested in activities related to knowledge and intellect. You might play chess, listen to books on tape, or do challenging 
+</p >
+<p class="font-14">
+  crossword puzzles. You relish competition. You’re tireless, perhaps hyperalert, and might require less sleep than your friends or family. 
+</p>
+
+
+
+<p class="font-14">
+  When it comes to physical activity, you find great satisfaction in anaerobic, weight-bearing exercises. You may also enjoy competitive individualized sports such as tennis, swimming, or skiing. If you follow professional sports, you might be as intrigued by the statistics of the sport as by the actual game being played.
+</p>
+
+
+<p>
+  Because rationality is your primary trait, you are more adept at establishing relationships than nurturing them. You’re not overly sensitive, so you tend to miss the fact that others may believe their feelings are more powerful than reason. A successful marriage for a dopamine nature depends upon the loyalty and goodwill of the spouse. Relations with children could be distant and depend heavily on your ability to control the rest of the family.
+</p>
+
+<p>
+  The dopamine Edge Effect occurs when you’ve maximized your dopamine nature. These are the times when you experience total sensual enjoyment, you derive pleasure from everything you do, and your reactions are sharp. All of your senses are heightened: you relish sexual relations, your food tastes fantastic, and you feel powerful and admired among your friends and family.
+</p>
+
+<h3 class="heading">
+  Too much dopamine
+</h3>
+<P>
+  It is possible to have too much of a good thing. Producing too much dopamine makes you overly intense, driven, and impulsive. Violence and over-control of others may be recurrent problems. Sexual activity level might be too high for sustained relationships to endure, as extramarital sexual activity may result. As teenagers, reckless driving, shoplifting, or date rape may result if you did not learn to balance your dopamine extremes in time.
+</P>
+
+<h1 class="text-center heading my-4">
+  opposite natur
+</h1>
+<p>
+  Aside from your dominant nature, the next most important piece of information is held in your opposite nature. Your opposite nature is Dopamine. 
+</p>
+
+<p>While it is important to identify your dominant nature, you will not be able to reach the Ultimate Edge Effect unless you learn to balance all four natures. The first step then is to recognize and enhance your dominant nature through the nature-specific programs. Then, once you are well, you can begin to get your opposite nature into shape. Last, follow the programs for the two remaining natures. When all of your natures are balanced, you will reach the Ultimate Edge Effect and experience optimal health.</p>
+
+<h1 class="text-center heading my-4">
+  Deficiencies
+</h1>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h3 class="heading">
+  Lifelong relative deficiency
+</h3>
+
+<p>
+  Your Dopamine nature score is 15 points lower than your dominant nature. This indicates that Dopamine is a lifelong relative deficiency and needs balance even in times of good health.
+</p>
+
+<h3 class="heading">
+  Deficiencies
+</h3>
+Minor deficits are the early warning signs of health problems. If ignored, they will eventually lead to more serious deficiencies, ultimately affecting your dominant nature, even if they occurred in another nature. If you fall into the moderate deficit range, you probably have already sought medical treatment for any number of ailments related to that deficiency. Minor and moderate deficits can be treated without medications and usually respond to a combination of natural/nutritional, hormonal, and lifestyle changes. 
+
+<p>
+  The second part of the uncovers deficiencies that may require more immediate attention.
+</p>
+<p>
+  Minor deficits are the early warning signs of health problems. If ignored, they will eventually lead to more serious deficiencies, ultimately affecting your dominant nature, even if they occurred in another nature. If you fall into the moderate deficit range, you probably have already sought medical treatment for any number of ailments related to that deficiency. Minor and moderate deficits can be treated without medications and usually respond to a combination of natural/nutritional, hormonal, and lifestyle changes. 
+</p>
+
+<p>
+  Major and severe deficits warrant medical treatment and should be addressed immediately. Deficits are treated as diseases—for example, Parkinson’s disease, severe mood disorders, high blood pressure, memory loss, seizure disorders, depression, learning disabilities, attention deficit disorder, migraines, sleep disorders, irritable bowel syndrome, manic depression, and anxiety, among others. These conditions most likely require medications; nutritional, hormonal, and lifestyle changes are usually not enough to address them. If you experience any of these symptoms or illnesses, it is important to consult your doctor and get immediate treatment. 
+</p>
+<p class="pageBreak">
+</p>
+
+<diV style="width:500px;height:500px; color:red;position: relative;">
+ <img class=""
+  src="https://quickchart.io/chart?width=500&height=300&c={
+      type: 'bar',
+               data: {
+                    labels: ['Dopamine', 'Acetylcholine', 'GABA', 'Serotonin'],
+                    datasets: [{
+                         label: 'Deficiencies',
+                         data:[{{barChart.valu.TwoDopDef}},{{barChart.valu.TwoAceDef}},{{barChart.valu.TwoGabDef}},{{barChart.valu.TwoSerDef}}]
+                    }]
+               },
+  }">
+</diV>
+
+
+     <!--<div style="width:800px; height:400px;" id="Dopamine-deficiency-chart"></div>-->
+     <!--<div style="width:800px; height:400px;" id="Acetylcholine-deficiency-chart"></div>-->
+     <!--<div style="width:800px; height:400px;" id="GABA-deficiency-chart"></div>-->
+     <!--<div style="width:800px; height:400px;" id="Serotonin-deficiency-chart"></div>-->
+
+
+
+
+
+
+ <script>
+       
+          const DopamineSource = {
+               chart: {
+                    caption: "Dopamine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "25",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value:  $docPayload.DopamineDeficiency,
+                              tooltext: `Higher degree of satisfaction score of $datavalue  `
+                         }
+                    ]
+               }
+          };
+          
+          
+          const AcetylcholineSource = {
+  chart: {
+    caption: "Acetylcholine deficiency",
+    subcaption: "",
+    theme: "fusion",
+    showvalue: "0",
+    baseFontSize: "25",
+    animation: "0",
+    showtickmarks: "0",
+    numbersuffix: "%"
+  },
+  colorrange: {
+    color: [
+      {
+        minvalue: "1",
+        maxvalue: "5",
+        label: "Minor",
+        code: "#6baa01"
+      },
+      {
+        minvalue: "5",
+        maxvalue: "8",
+        label: "Moderate",
+        code: "#f8bd19"
+      },
+      {
+        minvalue: "8",
+        maxvalue: "15",
+        label: "Major",
+        code: "#EE7D13"
+      },
+            {
+        minvalue: "15",
+        maxvalue: "24",
+        label: "Severe",
+        code: "#e44a00"
+      }
+    ]
+  },
+  pointers: {
+    pointer: [
+      {
+        value: $docPayload.AcetylcholineDeficiency,
+        tooltext: "Higher degree of satisfaction score of $datavalue  "
+      }
+    ]
+  }
+};
+
+const GABASource = {
+  chart: {
+    caption: "GABA deficiency",
+    subcaption: "",
+    theme: "fusion",
+    showvalue: "0",
+    baseFontSize: "25",
+    animation: "0",
+    showtickmarks: "0",
+    numbersuffix: "%"
+  },
+  colorrange: {
+    color: [
+      {
+        minvalue: "1",
+        maxvalue: "5",
+        label: "Minor",
+        code: "#6baa01"
+      },
+      {
+        minvalue: "5",
+        maxvalue: "8",
+        label: "Moderate",
+        code: "#f8bd19"
+      },
+      {
+        minvalue: "8",
+        maxvalue: "15",
+        label: "Major",
+        code: "#EE7D13"
+      },
+            {
+        minvalue: "15",
+        maxvalue: "40",
+        label: "Severe",
+        code: "#e44a00"
+      }
+    ]
+  },
+  pointers: {
+    pointer: [
+      {
+        value: $docPayload.GABaDeficiency,
+        tooltext: "Higher degree of satisfaction score of $datavalue  "
+      }
+    ]
+  }
+};
+
+
+const SerotoninSource = {
+  chart: {
+    caption: "Serotonin deficiency",
+  subcaption: "",
+    theme: "fusion",
+    showvalue: "0",
+    baseFontSize: "25",
+    animation: "0",
+    showtickmarks: "0",
+    numbersuffix: "%"
+  },
+  colorrange: {
+    color: [
+      {
+        minvalue: "1",
+        maxvalue: "5",
+        label: "Minor",
+        code: "#6baa01",
+         showLabel: "1"
+      },
+      {
+        minvalue: "5",
+        maxvalue: "8",
+        label: "Moderate",
+        code: "#f8bd19"
+      },
+      {
+        minvalue: "8",
+        maxvalue: "15",
+        label: "Major",
+        code: "#EE7D13"
+      },
+            {
+        minvalue: "15",
+        maxvalue: "25",
+        label: "Severe",
+        code: "#e44a00"
+      }
+    ]
+  },
+  pointers: {
+    pointer: [
+      {
+        value: $docPayload.SerotoninDeficiency,
+        tooltext: "Higher degree of satisfaction score of $datavalue  "
+      }
+    ]
+  }
+};
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Dopamine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                 dataSource:DopamineSource
+               }).render();
+          });
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Acetylcholine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                      dataSource:AcetylcholineSource
+               }).render();
+          });
+          
+           FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "GABA-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                      dataSource:GABASource
+               }).render();
+          });
+          
+           FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Serotonin-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                      dataSource:SerotoninSource
+               }).render();
+          });
+     </script>
+<script>
+  let semesterRevenues = document.querySelector("#semesterRevenues");
+  let semesterRevenuesLines = document.querySelector("#semesterRevenuesLines");
+  let expenses = document.querySelector("#expenses");
+  
+
+  
+  new ApexCharts(sources, {
+    chart: {
+      animations: { enabled: false },
+      toolbar: { show: false },
+      type: 'donut',
+      width: 400
+    },
+    dataLabels: { enabled: false },
+    colors:["#FF0000", "#FFFF00", "#A020F0", "#00FF00"],
+    labels: $docPayload.dopamineChart.labels,
+    series: $docPayload.dopamineChart.values,
+    legend: { position: 'top' }
+  })
+  .render();
+  
+  
+  
+  
+  
+  
+  
+  
+   
+</script>
+<script>
+   let barchart = document.querySelector("#barchart");
+          const chartObj = {
+               type: 'bar',
+               data: {
+                    labels: ['January', 'February', 'March', 'April'],
+                    datasets: [{
+                         label: 'Deficiencies',
+                         data: [-35, -13, -7, -18]
+                    }]
+               },
+               options: {
+                    scales: {
+                         yAxes: [{
+                              ticks: {
+                                   callback: '__CALLBACK_PLACEHOLDER__',
+                              }
+                         }],
+                    },
+               },
+          };
+          const myFormatterFunction = function (value) {
+               return "$" + value
+          };
+          const chartStr = JSON.stringify(chartObj).replace('"__CALLBACK_PLACEHOLDER__"', myFormatterFunction.toString());
+          let dasda = encodeURIComponent(chartStr)
+          let str = "https://quickchart.io/chart?c=" + dasda
+          console.log(str);
+          <!--barchart.src = str-->
+
+</script>
+
+
+

@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>fustionChart</title>
+     <style>
+          /* @import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"); */
+
+
+
+          .bl-red {
+               border-left: 2px solid #E53E3E;
+               font-weight: bold;
+               font-family: Calibri;
+               text-align: center;
+               flex-direction: column;
+          }
+
+          table,
+          th,
+          td {
+               border: 1px solid black;
+               border-collapse: collapse;
+          }
+
+          th,
+          td {
+               padding: 5px;
+               text-align: left;
+          }
+     </style>
+
+     <!-- Include fusioncharts core library -->
+     <!-- Step 1 - Include the fusioncharts core library -->
+     <!-- <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script> -->
+     <!-- Step 2 - Include the fusion theme -->
+     <!-- <script type="text/javascript"
+          src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+     <script>
+          const dataSource = {
+               chart: {
+                    caption: "Dopamine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: 16,
+                    pointerbghovercolor: "#ffffff",
+                    pointerbghoveralpha: "80",
+                    pointerhoverradius: "12",
+                    showborderonhover: "1",
+                    pointerborderhovercolor: "#333333",
+                    pointerborderhoverthickness: "5",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: "18",
+                              tooltext: `Higher degree of satisfaction score of $datavalue  `
+                         }
+                    ]
+               }
+          };
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "chart-container",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource
+               }).render();
+          });
+     </script> -->
+     <script async src="https://bernii.github.io/gauge.js/dist/gauge.min.js"></script>
+     <script async src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+     <script async src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+     <script async type="text/javascript"
+          src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+     <!-- Step 2 - Include the fusion theme -->
+     <script type="text/javascript"
+          src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+     <script>
+
+          const DopamineSource = {
+               chart: {
+                    caption: "Dopamine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "25",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: 12,
+                              tooltext: `Higher degree of satisfaction score of $datavalue  `
+                         }
+                    ]
+               }
+          };
+
+
+          const AcetylcholineSource = {
+               chart: {
+                    caption: "Acetylcholine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "25",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "24",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: 32,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+          const GABASource = {
+               chart: {
+                    caption: "GABA deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "25",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "40",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: 22,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+
+          const SerotoninSource = {
+               chart: {
+                    caption: "Serotonin deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "25",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01",
+                              showLabel: "1"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: 3,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Dopamine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: DopamineSource
+               }).render();
+          });
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Acetylcholine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: AcetylcholineSource
+               }).render();
+          });
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "GABA-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: GABASource
+               }).render();
+          });
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Serotonin-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: SerotoninSource
+               }).render();
+          });
+     </script>
+     <script>
+          let semesterRevenues = document.querySelector("#semesterRevenues");
+          let semesterRevenuesLines = document.querySelector("#semesterRevenuesLines");
+          let expenses = document.querySelector("#expenses");
+          let sources = document.querySelector("#sources");
+
+
+          new ApexCharts(sources, {
+               chart: {
+                    animations: { enabled: false },
+                    toolbar: { show: false },
+                    type: 'donut',
+                    width: 400
+               },
+               dataLabels: { enabled: false },
+               colors: ["#FF0000", "#FFFF00", "#A020F0", "#00FF00"],
+               labels: ["Dopamine", "Acetylcholine", "GABA", "Serotonin"],
+               series: [90, 60, 30, 52],
+               legend: { position: 'top' }
+          })
+               .render();
+
+
+          let options = {
+
+               series: [{
+                    label: "Deficiencies",
+                    data: [-13, -5, -9, -8]
+               }],
+               chart: {
+                    animations: { enabled: false },
+                    toolbar: { show: false },
+                    type: 'bar',
+                    height: 400,
+                    width: 400,
+               },
+               plotOptions: {
+                    bar: {
+                         borderRadius: 4,
+                    }
+               },
+               title: {
+                    text: "Deficiencies",
+                    align: "center",
+                    style: {
+                         fontSize: "12px"
+                    }
+               },
+               legend: {
+                    show: false,
+                    position: 'top',
+                    name: "dasdasd",
+
+               },
+               dataLabels: {
+                    enabled: true
+               },
+               xaxis: {
+                    categories: ["Dopamine", "Acetylcholine", "GABA", "Serotonin"],
+               }
+          };
+
+          let chart = new ApexCharts(document.querySelector("#barchart"), options);
+          chart.render();
+     </script>
+
+<body>
+
+
+     <!-- <div id="chart-container" style="width: 100%;height: 100%; margin: 30px;">FusionCharts XT will load here!</div> -->
+
+
+     <div style="width:800px; height:400px;" id="Dopamine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Acetylcholine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="GABA-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Serotonin-deficiency-chart"></div>
+
+     <div class="flex flex-col items-center mt-10">
+          <div class="p-2 w-1/2 flex flex-col items-center">
+               <div class="bg-white h-full p-2 shadow-md">
+                    <p class="mb-6 text-center"> {{dopamineChart.title}}</p>
+                    <div id="sources" class="disply-flex justify-center
+                "></div>
+               </div>
+          </div>
+     </div>
+
+
+
+     <div class="flex flex-col items-center mt-10">
+          <div class="p-2 w-1/2 flex flex-col items-center">
+               <div class="bg-white h-full p-2 ">
+                    <div id="barchart" style="width:800px;" class="disply-flex justify-center
+           "></div>
+               </div>
+          </div>
+
+     </div>
+
+
+
+     <div style="width:800px; height:400px;" id="Dopamine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Acetylcholine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="GABA-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Serotonin-deficiency-chart"></div>
+
+     <!-- table no 1 -->
+     <table>
+          <tbody>
+               <tr>
+                    <td colspan="4">
+                         <p><strong><strong>&nbsp;</strong></strong></p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p>&nbsp;</p>
+                    </td>
+                    <td>
+                         <p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+                    </td>
+                    <td>
+                         <p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+                    </td>
+                    <td>
+                         <p><strong><strong>Major Deficit (15+)</strong></strong></p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Choline (GPC choline)</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Phosphatidylcholine</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+                    <td>
+                         <p>1000 mg</p>
+                    </td>
+                    <td>
+                         <p>2000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Phosphatidylserine</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>50 mg</p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Acetyl-l-carnitine</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>250 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+                    <td>
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>DHA (Docosahexaenoic acid)</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+                    <td>
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Thiamine</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>25 mg</p>
+                    </td>
+                    <td>
+                         <p>50 mg</p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Pantothenic Acid</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>25 mg</p>
+                    </td>
+                    <td>
+                         <p>50 mg</p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Vitamin B12</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Taurine</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>250 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+                    <td>
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Huperzine-A</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>50 mg</p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Ginko Biloba</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>50 mg</p>
+                    </td>
+                    <td>
+                         <p>75 mg</p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td>
+                         <p><strong><strong>Korean Ginseng</strong></strong></p>
+                    </td>
+                    <td>
+                         <p>100 mg</p>
+                    </td>
+                    <td>
+                         <p>200 mg</p>
+                    </td>
+                    <td>
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+          </tbody>
+     </table>
+
+     <!-- table no 2 -->
+     <table>
+          <tbody>
+               <tr>
+                    <td colspan="4" width="100.0000%">
+                         <p>GABA Boosters</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p>&nbsp;</p>
+                    </td>
+                    <td width="21.6000%">
+                         <p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+                    </td>
+                    <td width="26.8400%">
+                         <p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+                    </td>
+                    <td width="21.9800%">
+                         <p><strong><strong>Major Deficit (15+)</strong></strong></p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Inositol</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>1000 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>2000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>GABA (not well-absorbed)</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>100 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Glutamic Acid</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>250 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Melatonin (at night)</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>1 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>2 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>3-6 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Thiamine</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>400 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>600 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Niacinamide</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>25 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>100 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Pyridoxine</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>5 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>10 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>50 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Valerian root</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>100 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="29.5800%">
+                         <p><strong><strong>Passionflower</strong></strong></p>
+                    </td>
+                    <td width="21.6000%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="26.8400%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="21.9800%">
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+          </tbody>
+     </table>
+
+     <!-- table no 3 -->
+
+     <table>
+          <tbody>
+               <tr>
+                    <td colspan="4" width="100.0000%">
+                         <p>Serotonin Boosters</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p>&nbsp;</p>
+                    </td>
+                    <td width="19.4800%">
+                         <p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+                    </td>
+                    <td width="24.2200%">
+                         <p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+                    </td>
+                    <td width="19.8400%">
+                         <p><strong><strong>Major Deficit (15+)</strong></strong></p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Calcium</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>750 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Fish oil (pharmaceutical grade)</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>1000 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>2000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>5-HTP (with decarboxylase inhibitor)</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>100 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>500 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Magnesium</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>400 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>600 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Melatonin (at night)</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>1/3 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>1/2-2 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>1-6 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Passionflower</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>1000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Pyridoxine</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>5 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>10 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>50 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>SAM-e</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>50 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>100 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>200 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>St. John&rsquo;s Wort</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>200 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>400 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>600 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Tryptophan (prescription)</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>500 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>1000 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>1500-2000 mg</p>
+                    </td>
+               </tr>
+               <tr>
+                    <td width="36.4600%">
+                         <p><strong><strong>Zinc</strong></strong></p>
+                    </td>
+                    <td width="19.4800%">
+                         <p>15 mg</p>
+                    </td>
+                    <td width="24.2200%">
+                         <p>30 mg</p>
+                    </td>
+                    <td width="19.8400%">
+                         <p>45 mg</p>
+                    </td>
+               </tr>
+          </tbody>
+     </table>
+
+     <!-- form  -->
+
+</body>
+
+</html>

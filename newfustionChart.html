@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+     <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+     <!-- Step 2 - Include the fusion theme  -->
+     <script type="text/javascript"
+          src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+</head>
+
+<body>
+     <script>
+
+          const DopamineSource = {
+               chart: {
+                    caption: "Dopamine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "20",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: $docPayload.DopamineDeficiency,
+                              tooltext: `Higher degree of satisfaction score of $datavalue  `
+                         }
+                    ]
+               }
+          };
+
+
+          const AcetylcholineSource = {
+               chart: {
+                    caption: "Acetylcholine deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "20",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "24",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: $docPayload.AcetylcholineDeficiency,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+          const GABASource = {
+               chart: {
+                    caption: "GABA deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "20",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "40",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: $docPayload.GABaDeficiency,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+
+          const SerotoninSource = {
+               chart: {
+                    caption: "Serotonin deficiency",
+                    subcaption: "",
+                    theme: "fusion",
+                    showvalue: "0",
+                    baseFontSize: "20",
+                    animation: "0",
+                    showtickmarks: "0",
+                    numbersuffix: "%"
+               },
+               colorrange: {
+                    color: [
+                         {
+                              minvalue: "1",
+                              maxvalue: "5",
+                              label: "Minor",
+                              code: "#6baa01",
+                              showLabel: "1"
+                         },
+                         {
+                              minvalue: "5",
+                              maxvalue: "8",
+                              label: "Moderate",
+                              code: "#f8bd19"
+                         },
+                         {
+                              minvalue: "8",
+                              maxvalue: "15",
+                              label: "Major",
+                              code: "#EE7D13"
+                         },
+                         {
+                              minvalue: "15",
+                              maxvalue: "25",
+                              label: "Severe",
+                              code: "#e44a00"
+                         }
+                    ]
+               },
+               pointers: {
+                    pointer: [
+                         {
+                              value: $docPayload.SerotoninDeficiency,
+                              tooltext: "Higher degree of satisfaction score of $datavalue  "
+                         }
+                    ]
+               }
+          };
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Dopamine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: DopamineSource
+               }).render();
+          });
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Acetylcholine-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: AcetylcholineSource
+               }).render();
+          });
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "GABA-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: GABASource
+               }).render();
+          });
+
+          FusionCharts.ready(function () {
+               var myChart = new FusionCharts({
+                    type: "hlineargauge",
+                    renderAt: "Serotonin-deficiency-chart",
+                    width: "100%",
+                    dataFormat: "json",
+                    dataSource: SerotoninSource
+               }).render();
+          });
+     </script>
+     <div style="width:800px; height:400px;" id="Dopamine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Acetylcholine-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="GABA-deficiency-chart"></div>
+     <div style="width:800px; height:400px;" id="Serotonin-deficiency-chart"></div>
+</body>
+
+</html>

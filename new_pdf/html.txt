@@ -1,0 +1,1194 @@
+
+<p class="text-center text-3xl font-semibold">Braverman Test - Your report</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<table>
+<tbody>
+<tr class="border_bottom">
+<td width="132">
+<p><strong><strong>First name</strong></strong></p>
+</td>
+<td width="517">
+<p>{{firstname}}</p>
+</td>
+</tr>
+<tr class="border_bottom">
+<td width="132">
+<p><strong><strong>Last Name</strong></strong></p>
+</td>
+<td width="517">
+<p>{{lastname}}</p>
+</td>
+</tr>
+<tr class="border_bottom">
+<td width="132">
+<p><strong><strong>Email</strong></strong></p>
+</td>
+<td width="517">
+<p>{{email}}</p>
+</td>
+</tr>
+<tr class="border_bottom">
+<td width="132">
+<p><strong><strong>Date of test</strong></strong></p>
+</td>
+<td width="517">
+<p>{{datetoday}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="pageBreak"></p>
+<h1 class="text-center  mt-32 font-semibold"><strong><strong>Neurotransmitter profile of your dominant nature</strong></strong></h1>
+
+<div class="flex flex-col items-center mt-10">
+<div class="p-2 w-1/2 flex flex-col items-center" >
+    <div class="bg-white h-full p-2 ">
+      <p class="mb-6 text-center"> {{dopamineChart.title}}</p>
+      <div id="sources" class="disply-flex justify-center
+      "></div>
+    </div>
+  </div>
+  
+</div>
+
+<h1 class="text-center  mb-16 font-semibold"><strong><strong>You are Dopamine dominant.</strong></strong></h1>
+
+
+
+
+<p class="tracking-wide font-medium">Congratulations! You are Dopamine dominant.</p>
+<P class="tracking-wide mb-12 font-medium">Dopamine nature is associated with high-voltage beta waves from your brain, dopamineaffects the power of your body and mind. High-dopamine individuals like yourself are oftenpowerful, reflexively fast, and quick-witted. When feeling well, people with dopaminenatures have a very sharp edge.</P>
+<p class="tracking-wide mb-12 font-medium">As a dopamine nature, you are among approximately 17% of the world’s population. Youthrive on energy. When your dopamine production is balanced, you are likely to be astrong-willed individual who knows exactly what you want and how to get it. You’re fast onyour feet and self-confident. You’re highly rational, more comfortable with facts and figuresthan with feelings and emotions. You are able to assess yourself critically, yet you generallydo not respond well to criticism or accept negative feedback from others. </p>
+
+<p class="mt-12">You focus intently and persistently on the task at hand and take pride in achievement. Strategic thinking, masterminding, inventing, problem solving, envisioning, and pragmatism are exciting, and you function well under stress. These skills lend themselves to positions requiring complex knowledge and/or detailed planning. A majority of doctors, scientists, researchers, inventors, engineers, generals, and architects are likely to be dopamine-dominant. But this does not preclude other professions from dopamine natures: dopamine-dominant people can be found in every walk of life. </p>
+<p class="mt-12"> With a dopamine nature, you’re most likely to be interested in activities related to knowledge and intellect. You might play chess, listen to books on tape, or do challenging crossword puzzles. You relish competition. You’re tireless, perhaps hyperalert, and might require less sleep than your friends or family.  </p>
+<p class="mt-12"> When it comes to physical activity, you find great satisfaction in anaerobic, weight-bearing exercises. You may also enjoy competitive individualized sports such as tennis, swimming, or skiing. If you follow professional sports, you might be as intrigued by the statistics of the sport as by the actual game being played. </p>
+<p class="mt-12"> Because rationality is your primary trait, you are more adept at establishing relationships than nurturing them. You’re not overly sensitive, so you tend to miss the fact that others may believe their feelings are more powerful than reason. A successful marriage for a dopamine nature depends upon the loyalty and goodwill of the spouse. Relations with children could be distant and depend heavily on your ability to control the rest of the family. </p>
+<p class="mt-12"> The dopamine Edge Effect occurs when you’ve maximized your dopamine nature. These are the times when you experience total sensual enjoyment, you derive pleasure from everything you do, and your reactions are sharp. All of your senses are heightened: you relish sexual relations, your food tastes fantastic, and you feel powerful and admired among your friends and family. </p>
+
+
+
+<h1 class="  mt-8 font-extrabold ">Too much dopamine</h3>
+<p class="mt-2">It is possible to have too much of a good thing. Producing too much dopamine makes youoverly intense, driven, and impulsive. Violence and over-control of others may be recurrentproblems. Sexual activity level might be too high for sustained relationships to endure, asextramarital sexual activity may result. As teenagers, reckless driving, shoplifting, or daterape may result if you did not learn to balance your dopamine extremes in time</p>
+
+
+<h1 class="text-center text-2xl  my-8 font-semibold"> opposite natur</h1>
+
+<p>Aside from your dominant nature, the next most important piece of information is held in your opposite nature.&nbsp;Your opposite nature is Dopamine.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>While it is important to identify your dominant nature, you will not be able to reach the Ultimate Edge Effect unless you learn to balance all four natures. The first step then is to recognize and enhance your dominant nature through nature-specific programs. Then, once you are well, you can begin to get your opposite nature into shape. Last, follow the programs for the two remaining natures. When all of your natures are balanced, you will reach the Ultimate Edge Effect and experience optimal health.</p>
+<p>&nbsp;</p><p>&nbsp;</p>
+
+<h1 class="text-center text-2xl  font-semibold"> Deficiencies</div>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p>&nbsp;</p>
+<h3><strong><strong>L</strong></strong><strong><strong>ifelong relative deficiency</strong></strong></h3>
+<p>&nbsp;</p>
+<p>Your Dopamine nature score is 15 points lower than your dominant nature. This indicates that Dopamine is a lifelong relative deficiency and needs balance even in times of good health.</p>
+<p>&nbsp;</p>
+<h3><strong><strong>Deficiencies</strong></strong></h3>
+<p>&nbsp;</p>
+<p>The second part of the uncovers deficiencies that may require more immediate attention.</p>
+<p>&nbsp;</p>
+<p>Minor deficits are the early warning signs of health problems. If ignored, they will eventually lead to more serious deficiencies, ultimately affecting your dominant nature, even if they occurred in another nature. If you fall into the moderate deficit range, you probably have already sought medical treatment for any number of ailments related to that deficiency. Minor and moderate deficits can be treated without medications and usually respond to a combination of natural/nutritional, hormonal, and lifestyle changes.</p>
+<p>&nbsp;</p>
+<p>Major&nbsp;and severe&nbsp;deficits warrant medical treatment and should be addressed immediately. Deficits are treated as diseases&mdash;for example, Parkinson&rsquo;s disease, severe mood disorders, high blood pressure, memory loss, seizure disorders, depression, learning disabilities, attention deficit disorder, migraines, sleep disorders, irritable bowel syndrome, manic depression, and anxiety, among others. These conditions most likely require medications; nutritional, hormonal, and lifestyle changes are usually not enough to address them. If you experience any of these symptoms or illnesses, it is important to consult your doctor and get immediate treatment.</p>
+<!--<p>&nbsp;</p>-->
+<div class="flex flex-col items-center">
+<div class="p-2 flex flex-col items-center" >
+    <div class="bg-white h-full p-2 ">
+       <div id="barChart"></div>
+    </div>
+  </div>
+  
+</div>
+<p class="pageBreak"></p>
+<p>&nbsp;</p>
+<h3><strong><strong>Minor deficiency</strong></strong></h3>
+<p>Any neurotransmitter with a deficiency score between 1 and 5 is considered a minor deficiency.</p>
+<p>&nbsp;</p>
+<h3>Moderate deficiency</h3>
+<p>Any neurotransmitter with a deficiency score between 5 and 8 is considered a moderate deficiency.</p>
+<p>&nbsp;</p>
+<h3><strong>Major deficiency</strong></h3>
+<p>Any neurotransmitter with a deficiency score between 9 and 15 is considered a major deficiency.</p>
+<p>&nbsp;</p>
+<h3><strong><strong>Severe deficiency</strong></strong></h3>
+<p>Any neurotransmitter with a deficiency score of 16 or is considered a severe deficiency and we recommend seeking doctor&rsquo;s advice immediately.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<diV style="width:600px; height:400px;">
+  <canvas  id="Dopamine-deficiency-chart"></canvas>
+</diV>
+<diV style="width:600px;  height:400px;">
+  <canvas  id="Acetylcholine-deficiency-chart"></canvas>
+</diV>
+<diV style="width:600px; height:400px;">
+  <canvas  id="GABA-deficiency-chart"></canvas>
+</diV>
+<diV style="width:600px; height:400px;">
+  <canvas  id="Serotonin-deficiency-chart"></canvas>
+</diV>
+  
+     <!--<div style="width:800px; height:400px;" id="Acetylcholine-deficiency-chart"></div>-->
+     <!--<div style="width:800px; height:400px;" id="GABA-deficiency-chart"></div>-->
+     <!--<div style="width:800px; height:400px;" id="Serotonin-deficiency-chart"></div>-->
+
+<p><strong><strong>Balancing d</strong></strong><strong><strong>opamine</strong></strong><strong><strong>&nbsp;deficiencies</strong></strong></p>
+<p>&nbsp;</p>
+<p>Any dopamine deficiency can be corrected by using some combination of the seven treatment modalities: medications, hormones, supplements, diet, lifestyle, environment, and electrical treatments. The severity of your symptoms, however, will determine which type of treatment will work best for you.</p>
+<p>&nbsp;</p>
+<p>Early warning signs are loss of energy, fatigue, sluggishness, memory loss, or the blues.<br /><em><em>Physical issues:</em></em>&nbsp;Anemia, balance problems, blood sugar instability, bone density loss, carbohydrate cravings, decreased appetite, decreased strength, diabetes, diarrhea, anorgasmia, digestion problems, hypersomnia, head and facial tremors, high blood pressure, hyperglycemia, joint pain, kidney problems, light-headedness, low libido, narcolepsy, obesity, Parkinson&rsquo;s, slow metabolism, slow rigid movements, substance abuse, sugar cravings, tension, tremors, thyroid problems, swallowing problems. Personality Issues: Aggression, anger, carelessness, depression, fear of being observed, guilt, hopelessness, worthlessness, pleasure-seeking behavior, stress intolerance, social isolation, mood swings, procrastination, self-destructive thoughts. Memory Issues: Distractibility, lack of follow-through, forgetfulness, lack of working memory, poor abstract thinking, slow processing speed. Attention Issues: ADD, decreased alertness, failure to finish tasks, hyperactivity, impulsive behavior, poor concentration.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="text-center"><strong><u><strong>Deficiency </strong></u></strong><strong><u><strong>Boosters </strong></u></strong></p>
+<p style="padding-left: 420px;">&nbsp;</p>
+<p><strong><strong>Supplements </strong></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr style="height: 423px;">
+<td style="height: 423px;" width="1140">
+<table>
+<tbody>
+<tr>
+<td width="166">
+<p>&nbsp;</p>
+</td>
+<td width="166">
+<p><strong><strong>Minor Deficit (</strong></strong><strong><strong>1</strong></strong><strong><strong>-5)</strong></strong></p>
+</td>
+<td width="166">
+<p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+</td>
+<td width="166">
+<p><strong><strong>Major</strong></strong><strong><strong>&nbsp;and severe</strong></strong><strong><strong>&nbsp;Deficit (15+)</strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Phenylalanine</strong></strong></p>
+</td>
+<td width="166">
+<p>500 mg</p>
+</td>
+<td width="166">
+<p>1000 mg</p>
+</td>
+<td width="166">
+<p>1000-2000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Tyrosine</strong></strong></p>
+</td>
+<td width="166">
+<p>500 mg</p>
+</td>
+<td width="166">
+<p>1000 mg</p>
+</td>
+<td width="166">
+<p>1000-2000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Methionine</strong></strong></p>
+</td>
+<td width="166">
+<p>250 mg</p>
+</td>
+<td width="166">
+<p>500 mg</p>
+</td>
+<td width="166">
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Rhodiola</strong></strong></p>
+</td>
+<td width="166">
+<p>50 mg</p>
+</td>
+<td width="166">
+<p>100 mg</p>
+</td>
+<td width="166">
+<p>200 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Pyroxidine</strong></strong></p>
+</td>
+<td width="166">
+<p>5 mg</p>
+</td>
+<td width="166">
+<p>10 mg</p>
+</td>
+<td width="166">
+<p>50 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>B complex</strong></strong></p>
+</td>
+<td width="166">
+<p>25 mg</p>
+</td>
+<td width="166">
+<p>50 mg</p>
+</td>
+<td width="166">
+<p>100 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Phosphatidylserine</strong></strong></p>
+</td>
+<td width="166">
+<p>50 mg</p>
+</td>
+<td width="166">
+<p>100 mg</p>
+</td>
+<td width="166">
+<p>200 mg</p>
+</td>
+</tr>
+<tr>
+<td width="166">
+<p><strong><strong>Ginko Biloba</strong></strong></p>
+</td>
+<td width="166">
+<p>50 mg</p>
+</td>
+<td width="166">
+<p>75 mg</p>
+</td>
+<td width="166">
+<p>100 mg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong><strong>Food</strong></strong></p>
+<p>&nbsp;</p>
+<p>Dietary modifications can boost dopamine as well. Increase your intake of phenylalanine and tyrosine (use Equal as a sugar substitute), eat chicken, cottage cheese, eggs, pork, ricotta cheese, soybean products, turkey, walnuts, wheat germ, granola, oats, duck, and milk and yogurt.</p>
+<p class="pageBreak"></p>
+
+<p >To prevent dopamine burnout, practice deep breathing (from abdomen), alternating nostrils, watch nonviolent movies and TV shows, weight lifting 3 times per week. Prevent exposure to lead and cadmium. Stop smoking. A cup or two of caffeine in the morning is a very common way to increase dopamine, however this can cause insomnia or tremors if dosage is too high or it is taken too late in the day.</p>
+
+<p>&nbsp;</p>
+<p><strong><strong>Lifestyle</strong></strong></p>
+<p>&nbsp;</p>
+<p>The risk for dopamine natures of leading a high-energy lifestyle is burning out the brain&rsquo;s power supply of dopamine faster than it can be replenished. Rather than using quick fixes such as sugar and caffeine, it is far healthier to balance high energy output with regular periods of relaxation and restoration. Dopamine natures are used to handling stress, but everyone needs to take a break now and then, especially if you are experiencing a dopamine deficiency. Here are some examples of stress-busting activities that need to be incorporated into your day so that the brain can resynchronize and rebalance to produce more dopamine.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Environment</strong></strong></p>
+<p>&nbsp;</p>
+<p>Exposure to lead from old paint, leaking batteries, or solder (molten lead used to fasten metal) has been proven to reduce the brain&rsquo;s dopamine supply. Read warning labels carefully and wear a protective mask in order to protect your dopamine balance if you absolutely must be around lead-based products.</p>
+<p>Cadmium from cigarette smoke also decreases dopamine. If you smoke, now is the time to quit: there are really no more excuses for continuing this extremely unhealthy habit. Thousands of smokers have broken this addiction with our dopamine nutrient supplements. If you don&rsquo;t smoke and find yourself near smokers, move as far away as possible.</p>
+<p>&nbsp;</p>
+<p class="text-center"><strong><strong>Balancing acetylcholine deficiencies</strong></strong></p>
+<p>&nbsp;</p>
+<p>Acetylcholine controls your brain speed and the rate at which electrical signals are processed, connecting your physical experiences to memories and thoughts. When your brain speed 10 slows with deficient acetylcholine, the brain does not have time to connect all the new stimuli to previously stored information, so it is discarded when the new information pours in. Your recall may become spotty, and you may not react to sensory stimuli as fast as before. This causes forgetfulness.<br /><em><em>Physical issues:</em></em>&nbsp;Agitation, Alzheimers, anxiety, arthritis, autism, high cholesterol, decreased sexual ability, diabetes, problems urinating, dry cough, dry mouth, dyslexia, frequent urination, eye disorders, fat cravings, frequent bowel movements, glaucoma, lack of arousal, inflammatory problems, multiple sclerosis, osteoporosis, reading/writing disorders, slowness of movement, speech problems<br /><em><em>Personality issues:</em></em>&nbsp;Bipolar disorder, math errors, changes in personality and language, hysterical behavior, mood swings, rule breaking.<br /><em><em>Memory issues:</em></em>&nbsp;Learning disorders, loss of immediate visual and verbal memory, memory disturbance, memory lapses<br /><em><em>Attention issues:</em></em>&nbsp;Attention problems, difficulty concentrating, diminished comprehension, impaired abstract thinking, impaired creativity.</p>
+<p>&nbsp;</p>
+<p ></p>
+<p><strong><strong>Acetylcholine Boosters</strong></strong></p>
+<p><strong><strong>&nbsp;</strong></strong></p>
+<p>Supplements</p>
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p><strong><strong>&nbsp;</strong></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+</td>
+<td>
+<p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+</td>
+<td>
+<p><strong><strong>Major Deficit (15+)</strong></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Choline (GPC choline)</strong></strong></p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Phosphatidylcholine</strong></strong></p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+<td>
+<p>1000 mg</p>
+</td>
+<td>
+<p>2000 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Phosphatidylserine</strong></strong></p>
+</td>
+<td>
+<p>50 mg</p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Acetyl-l-carnitine</strong></strong></p>
+</td>
+<td>
+<p>250 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+<td>
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>DHA (Docosahexaenoic acid)</strong></strong></p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+<td>
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Thiamine</strong></strong></p>
+</td>
+<td>
+<p>25 mg</p>
+</td>
+<td>
+<p>50 mg</p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Pantothenic Acid</strong></strong></p>
+</td>
+<td>
+<p>25 mg</p>
+</td>
+<td>
+<p>50 mg</p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Vitamin B12</strong></strong></p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Taurine</strong></strong></p>
+</td>
+<td>
+<p>250 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+<td>
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Huperzine-A</strong></strong></p>
+</td>
+<td>
+<p>50 mg</p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Ginko Biloba</strong></strong></p>
+</td>
+<td>
+<p>50 mg</p>
+</td>
+<td>
+<p>75 mg</p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong><strong>Korean Ginseng</strong></strong></p>
+</td>
+<td>
+<p>100 mg</p>
+</td>
+<td>
+<p>200 mg</p>
+</td>
+<td>
+<p>500 mg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>For many conditions&mdash;especially those present in the early stages of deficiency &mdash; you don&rsquo;t need a doctor&rsquo;s help to restore and maintain your acetylcholine balance. You can take matters into your own hands by following the nature-balancing suggestions for your diet and supplement regimen.</p>
+<p>One of the easiest ways to keep your acetylcholine nature balanced is by making better food choices when you eat. When your acetylcholine is deficient, your body needs more of the nutrient choline, which begins as a B vitamin and is converted to acetylcholine. Choline is so important to cognitive function that food manufacturers are now adding it to a wide variety of products. The U.S. government has established that any food with 55 mg. or more of choline per serving can be touted as &ldquo;a good source of choline.&rdquo;</p>
+<p>Choline is a key building block needed to create myelin, the insulation surrounding the membrane of many neurons. Essentially, choline is a good fat that protects the body from potentially dangerous surges of electricity that course through it every day. In order for our brain speed to remain high, there needs to be enough insulation around the neurons so that information to and from the brain stays in the nerve fiber and does not dissipate as it passes from site to site. Studies report the value of choline in diseases such as Huntington&rsquo;s chorea, Alzheimer&rsquo;s, psychiatric disorders (particularly mania and mood swings), Tourette&rsquo;s syndrome, and ataxia (inability to control voluntary muscle movement).</p>
+<p>Nature-specific diets are not about portion control or essential components. The important thing is to form a healthy habit of selecting acetylcholine- producing foods the majority of the time. When you do so, the occasional french fries and ice cream you sometimes crave will have little or no harmful effect.</p>
+<p>The benefits of your acetylcholine diet will be evident after a few weeks as your body begins getting an adequate supply of choline to keep its acetylcholine flowing. Cognitive problems associated with memory and thinking will gradually improve. You can supplement your nature diet with any noncarbonated, nonalcoholic, sugar-free beverage you prefer. Round out a meal with any additional fruits and vegetables you like even if they don&rsquo;t appear in the acetylcholine list at right.</p>
+<p class="pageBreak"></p>
+<p>Choline is a natural component of plants and animal products. Foods highest in choline are egg yolk, meat, liver, and cereals. Unfortunately, often the best sources of choline are foods with high fat content, exactly the types of food people want to avoid when they are trying to lose weight. Consequently, when we diet, we may be unconsciously decreasing our choline intake, which is especially worrisome for those of us with an acetylcholine deficiency. Adult men require 550 mg. per day of choline, up to a maximum of 3.5 grams per day. For women, choline intake should be at least 425 mg. daily, with an upper limit of 3.5 grams. Foods that are high in choline include:</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Food</strong></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Lifestyle</strong></strong></p>
+<p>&nbsp;</p>
+<p>The acetylcholine nature is all about interactions with people, and a constant turnover of new ideas and activities. But your brain can&rsquo;t handle this constant barrage of new ideas forever without some preventive maintenance and biochemical replenishment.</p>
+<p>Being alone once in a while is not punishment&mdash;it&rsquo;s a way to give your brain some time off to recharge itself. Try not to define everything you do in terms of whom you&rsquo;re with and what you&rsquo;re doing with them. This doesn&rsquo;t mean living as a hermit. It simply means making some time to be by yourself&mdash;reading a book, meditating, taking an extended walk, or praying&mdash;to provide resting time for your brain while it&rsquo;s awake. Try to allow for at least half an hour of solitary time every day.</p>
+<p>&nbsp;</p>
+<p>If you don&rsquo;t enjoy reading, acetylcholine natures might find meditation quite remarkable. Meditation gives the mind a chance to relax and rejuvenate. Because you view the world through all of your senses, try the following visual meditation.</p>
+<p><strong><strong>EXERCISE: VISUAL MEDITATION </strong></strong></p>
+<p>Gaze at a photograph, drawing, inspirational image, or nature scene. Color, depth of field, and meaning are all important aspects in choosing an image. You can choose a photograph of loved ones, a postcard landscape or still life, or a personally signficant work of fine art. If you are looking at a picture of a religious object, you may find that it will help you create a spiritual connection. Whatever you choose, gaze at the image for a few moments, and then close your eyes and calmly try to recreate this image in your mind. Take your time. What makes this image important to you and why do you have a unique relationship with it? When you feel that you fully understand the image, open your eyes and see if your mental re-creation matches the actual object.</p>
+<p><strong><strong>OTHER LIFESTYLE STRATEGIES </strong></strong></p>
+<p>Someone with an acetylcholine nature relies on feelings and the ability to empathize with others. However, some decisions&mdash;health-related ones, for example&mdash;are better made based upon facts and logic. Rational people are not your adversaries&mdash;they just think differently than you do. And they provide balance for you. If you&rsquo;re unable to incorporate a little more logic and rationality into your nature, let others who possess these abilities lead the way once in a while. Either way, your brain again gets some time off to rest while awake.</p>
+<p>Regardless of your nature, regular exercise is beneficial for muscle tone, strong bones, and good circulation. Although you may have the best of intentions, you seem to spend more time thinking about exercise than getting around to it. Studies have shown that aerobic exercise can restore acetylcholine, so it should become a regular part of your life. You&rsquo;ll need at least half an hour</p>
+<p>of aerobic exercise every other day. These activities include running, jogging, brisk walking, an aerobics class, bicycling, or anything else that increases your heart rate.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Environment</strong></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Your acetylcholine balance is particularly sensitive to the adverse effects of aluminum. Avoid aluminum cookware or utensils, and avoid products that may contain aluminum: baking powder, antacids, and water softeners. Aluminum can replace zinc in the neuron, and neurons without their zinc ions get tangled in their connections. If you don&rsquo;t read product labels, start now&mdash;your nature depends on it.</p>
+<p>Violent films and TV, aggressive and foul language, and pornography are more than an affront to your sense of social decorum&mdash;they&rsquo;re a drain on your supply of acetylcholine. Your eyes are literally the entryway to the brain. The information they take in, both good and bad, affects your brain chemistry. For example, cognitive functions are damaged by violent visual stimuli. Your physical health is also at risk: watching violence increases your blood pressure and pulse and makes you more anxious. If you&rsquo;re more selective about your entertainment, you&rsquo;ll be choosing to preserve your nature.</p>
+<p>As was the case with other pollutants such as PCBs, fertilizers, and pesticides, early warnings about electromagnetic fields (EMFs) were initially discounted. But studies have confirmed the hazards of concentrated exposure to magnetic fields and microwave radiation. Their negative effect on acetylcholine has been documented as well. So choose to live as far away as possible from power lines, stand away from and to the side of microwave ovens, use incandescent or full- spectrum lightbulbs instead of fluorescent ones, and always use the hands-free attachment for your cell phone. Studies show mixed results of fluorescent lights on ADD and of electromagnetic fields on mood, health, and obesity, but based on what I&rsquo;ve seen in my office, these mixed results will later prove to have a direct effect on your nature.</p>
+<p>No matter what your nature, you can create a restful environment by filling your personal spaces with soft lighting, gentle music, and pleasing scents. If you surround yourself with calm for at least a portion of every day, you&rsquo;ll accelerate the restoration of your acetylcholine balance.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>GABA deficiency </strong></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Gaba is produced in the temporal lobes and is associated throughout the brain with calming, rhythmic theta waves &ndash; the &ldquo;idling frequency&rdquo; of neurons. GABA is the major inhibitory neurotransmitter of the brain, which keeps all of the other biochemicals in check. GABA controls the brains rhythm so that you function mentally and physically at a steady pace. When your rhythm is thrown off by a GABA deficiency, you may begin to feel anxious, nervous, or irritable. Without enough GABA, your brain produces energy in bursts, which impacts your emotional well-being.</p>
+<p>Physical issues: Tremors, allergies, appetite changes, backache, blurred vision, carbohydrate cravings, chest pain, clammy hands, constipation, decreased libido, diarrhea, difficulty swallowing, dizziness, dry mouth, excessive sleepiness, headache, hypertension, hyperventilation, insomnia, irritable bowel syndrome, muscle loss, muscle tension, nausea, night sweats, parethesias, PMS, protein cravings, seizures, shortness of breath, stroke, heart palpitations, ringing in ears, trembling, twitching, urinary frequency.</p>
+<p>Personality issues: Problems adjusting to stress, anxiety, depression, feelings of dread, excessive guilt, worthlessness, hopelessness, emotional immaturity, manic depression, obsessive compulsive disorder, phobias, rage, restlessness, thoughts of suicide, psychosis.</p>
+<p>Memory issues: Learning disorders, loss of immediate visual and verbal memory, memory disturbance, memory lapses</p>
+<p>Attention issues: Poor verbal memory, global memory problems. Attention Issues: Difficulty concentrating, disorganized attention pattern associated with anxiety, high anxiety, impulsive attention errors (jumping the gun, erratic driving), inability to think clearly.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p >&nbsp;</p>
+<p><strong><strong>Supplements</strong></strong></p>
+<table>
+<tbody>
+<tr>
+<td colspan="4" width="100.0000%">
+<p>GABA Boosters</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p>&nbsp;</p>
+</td>
+<td width="21.6000%">
+<p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+</td>
+<td width="26.8400%">
+<p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+</td>
+<td width="21.9800%">
+<p><strong><strong>Major Deficit (15+)</strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Inositol</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>500 mg</p>
+</td>
+<td width="26.8400%">
+<p>1000 mg</p>
+</td>
+<td width="21.9800%">
+<p>2000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>GABA (not well-absorbed)</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>100 mg</p>
+</td>
+<td width="26.8400%">
+<p>500 mg</p>
+</td>
+<td width="21.9800%">
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Glutamic Acid</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>250 mg</p>
+</td>
+<td width="26.8400%">
+<p>500 mg</p>
+</td>
+<td width="21.9800%">
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Melatonin (at night)</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>1 mg</p>
+</td>
+<td width="26.8400%">
+<p>2 mg</p>
+</td>
+<td width="21.9800%">
+<p>3-6 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Thiamine</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>200 mg</p>
+</td>
+<td width="26.8400%">
+<p>400 mg</p>
+</td>
+<td width="21.9800%">
+<p>600 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Niacinamide</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>25 mg</p>
+</td>
+<td width="26.8400%">
+<p>100 mg</p>
+</td>
+<td width="21.9800%">
+<p>500 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Pyridoxine</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>5 mg</p>
+</td>
+<td width="26.8400%">
+<p>10 mg</p>
+</td>
+<td width="21.9800%">
+<p>50 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Valerian root</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>100 mg</p>
+</td>
+<td width="26.8400%">
+<p>200 mg</p>
+</td>
+<td width="21.9800%">
+<p>500 mg</p>
+</td>
+</tr>
+<tr>
+<td width="29.5800%">
+<p><strong><strong>Passionflower</strong></strong></p>
+</td>
+<td width="21.6000%">
+<p>200 mg</p>
+</td>
+<td width="26.8400%">
+<p>500 mg</p>
+</td>
+<td width="21.9800%">
+<p>1000 mg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Food</strong></strong></p>
+<p>&nbsp;</p>
+<p>For many conditions&mdash;especially those present in the early stages of a deficiency &mdash;you don&rsquo;t need a doctor to restore and maintain your GABA balance. You can balance your nature with nature-specific diet, vitamin, and supplement choices.</p>
+<p>The easiest and most natural way for you to keep your GABA nature balanced is with the foods you eat. The goal of a GABA diet is to ensure that the body has enough raw materials&mdash;in this case complex carbohydrates&mdash;for creating a steady supply of glutamine, the amino acid that is the precursor to GABA.</p>
+<p>The more GABA-producing foods you eat, the more GABA you will be able</p>
+<p>to create. Following is a list of foods that are considered to encourage the production of GABA. If you can incorporate these into your diet, the occasional fast-food meal or sinful dessert will have no harmful effect at all. Add in as many different fruits and vegetables as you like to your GABA diet, even if they don&rsquo;t appear in the list below. You can also have any noncarbonated, nonalcoholic, sugar-free beverage you prefer.</p>
+<p>GLUTAMIC ACID/GLUTAMATE (FORMS GLUTAMINE) MGS. PER 6&ndash;8 OZ. SERVING</p>
+<p>Almonds, tree nuts (10.3 g.) Banana (220 mg.)</p>
+<p>Beef liver (6.5 g.)</p>
+<p>Broccoli (740 mg.)</p>
+<p>Brown rice (940 mg.)</p>
+<p>Halibut (7.9 g.)</p>
+<p>Lentils (2.8 g.)</p>
+<p>Oats, whole grain (7.4 g.) Oranges, citrus fruits (210 mg.) Potato (830 mg.)</p>
+<p>Rice bran (3.7 g.)</p>
+<p>Spinach (680 mg.)</p>
+<p>Walnuts, tree nuts (5.4 g.)</p>
+<p>Whole wheat, whole grain (8.6 g.)</p>
+<p>&nbsp;</p>
+<p><strong>DEFICIENCY CRAVINGS</strong></p>
+<p>Too many simple carbohydrates are bad for GABA-nature people&mdash;they calm the brain temporarily, but within one to three hours a GABA imbalance will begin again. GABA natures need to stay away from simple sugars, white flours, and wheat products in general, with the exception of whole grains.</p>
+<p>&nbsp;</p>
+<p><strong>GABA-BOOSTING DIET</strong></p>
+<p>If your GABA nature has been diminishing, or if you are trying to enhance this biochemical as complementary to another nature, try the diet found at right. These menus span three days and can give you an idea of the foods and quantities you can eat that will increase your GABA. How often you repeat this</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p>diet depends on your deficiency level. If you have a minor deficiency, then you should follow a three-day course once a month. If you have a moderate deficiency, you should follow a three-day course once a week. An extreme deficiency requires at least six days a week of this specific diet.</p>
+<p>Important components of this diet are organ meats (especially liver), whole grains, vegetables, nuts, legumes, cantaloupe, oranges, and reishi mushrooms.</p>
+<p>The benefits of your GABA diet will be evident after a few weeks as your body begins to get an adequate supply of glutamine to keep its GABA flowing. Daily anxiety symptoms such as headache and irritable bowel will dissipate. If you&rsquo;ve been having trouble sleeping, you&rsquo;ll be amazed at how calm and relaxed you are at the end of the day. You&rsquo;ll fall asleep easily, sleep undisturbed, and awaken fully rested.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Lifestyle</strong></strong></p>
+<p>&nbsp;</p>
+<p>If you have a GABA nature, you need to realize that your life doesn&rsquo;t have to be defined in terms of someone else. Doing something solely for your immediate enjoyment is healthy. In fact, you&rsquo;ll be much better at taking care of others once you learn to take care of yourself.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Regular aerobic exercise is of tremendous cardiovascular benefit&mdash; and it helps maintain your GABA. Exercise also works as a tranquilizer for people with a GABA nature by helping restore your GABA balance. So power-walk, jog, use a StairMaster or treadmill, or ride a bicycle for at least thirty minutes three times a week.</p>
+<p>EXERCISE: GABA AEROBICS ROUTINE</p>
+<p>This routine is great for any nature that requires aerobic activity: acetyl-choline, GABA, or serotonin. All you&rsquo;ll need is a pair of comfortable walking shoes, a watch, and a pair of handheld weights of no more than two pounds each.</p>
+<p>The goal of this routine is to get you moving at a variety of paces. You will be walking around your home. If you can, walk outdoors, no matter what the weather. The fresh air can do wonders for your GABA.</p>
+<p>Start off with a five-minute warm-up as you circle your home. Carry your light weights with you and pump your arms as you walk. Your pace should be one at which you can easily carry on a conversation.</p>
+<p>For the next twenty minutes, pick up the pace. You want to reach the point at which you are panting but could carry on a brief conversation at the same time. Vary your terrain: walk up and down a staircase, or walk up and down a hill. Pump your arms faster as you go, bringing the weights to the level of your heart.</p>
+<p>For the last five minutes, progressively slow down your pace. Take long strides and stretch your legs as you bring your walk to an end. Stop pumping your arms and carry the weights at your sides. Don&rsquo;t stop moving until you have walked a total of thirty minutes.</p>
+<p>OTHER LIFESTYLE STRATEGIES</p>
+<p>Someone with a GABA nature needs to take time out to pursue the health benefits of play. Everything you do does not have to be a means to an end. Try to think of a hobby or pastime you used to enjoy or always wanted to explore. Make the time to pick it up again or investigate it for the first time, and if you like the activity, incorporate it into your life.</p>
+<p>As for relationships, remind yourself that they are a two-way street. You don&rsquo;t always have to be the giver&mdash;it&rsquo;s perfectly okay, and actually necessary, for you to be on the receiving end as well. Open yourself to help and comfort from others. Don&rsquo;t always be so quick to offer yourself&mdash; let others fend for themselves more often, and let them approach you for help first. Remember that GABA people risk their health when they can&rsquo;t say no to others at times. You&rsquo;ll</p>
+<p>&nbsp;</p>
+<p>never become a self-centered, me-first person, and you don&rsquo;t have to be&mdash;there are plenty of those people around. But you will be taking better care of yourself by allowing others in your life to take care of you.</p>
+<p>Mary now power-walks regularly, which not only provides the aerobic benefit she needs but also lets her be alone so that she can concentrate on herself. She has learned to turn over meal preparation to her husband twice a week, and if he doesn&rsquo;t feel like cooking, they go out for dinner. Mary always wished that she could paint, and now she attends art classes once a week and makes time to paint. She lets the answering machine pick up some phone calls, and she&rsquo;s learned to say no once in a while when she would otherwise jump in to volunteer. All of these small changes make for big increases in Mary&rsquo;s overall GABA production.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Environment</strong></strong></p>
+<p>&nbsp;</p>
+<p>Your GABA balance is particularly sensitive to the adverse affects of lead poisoning. Avoid contact with old paint and pipes, and read warning labels carefully when using paints, stains, and varnishes. Elevated lead levels are common in depressed people&mdash;as much as 10 percent of the American population. As added protection, wear a mask when working with toxic chemicals. The negative effects of chemicals in our environment disrupt the stability of the brain, making us edgy or nervous.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Serotonin deficiency </strong></strong></p>
+<p>&nbsp;</p>
+<p>Serotonin is produced in great quantities in the occipital lobes and helps create the neurological electricity for sight and rest, and also controls your cravings. The occipital lobes maintain your brain&rsquo;s overall balance, or synchrony, by regulating the output of all the primary brain waves. The four brain waves appear in varying combinations throughout the day, but at night serotonin allows the brain to recharge and rebalance. If these brain waves are out of sync, the left and right sides of your brain will be out of balance, and you might feel like you are going off the edge; you are overtired, out of control, and unable to get a restful sleep. When serotonin is unbalanced, your brain&rsquo;s ability to recharge itself is compromised. Serotonin burnout can occur from experiencing too much excitement or not getting enough sleep. When this happens, you simply cannot think clearly.<br /><em><em>Physical issues:</em></em>&nbsp;Aches and soreness, allergies, arthritis, backache, blurred vision, carbohydrate cravings, clammy hands, constipation or diarrhea, difficulty swallowing, dizziness, drug or alcohol addiction, drug reactions, dry mouth, hallucinations, headaches, high pain/pleasure threshold, hypersensitivity, excessive sleeping, hypertension, insomnia, muscle tension, nausea, night sweats, palpitations, parethesias, PMS, premature ejaculation, premature orgasm for women, salt cravings, tachycardia, ringing in ears, tremors, urinary frequency, vomiting, weight gain.<br /><em><em>Personality issues:</em></em>&nbsp;Codependency, depersonalization, depression, impulsiveness, lack of artistic appreciation, lack of common sense, lack of pleasure, social isolation, masochistic tendencies, obsessive compulsive disorder, paranoia, perfectionism, phobias, rage, self-absorption, shyness.<br /><em><em>Memory issues:</em></em>&nbsp;Confusion, memory loss, too many ideas to manage.<br /><em><em>Attention issues:</em></em>&nbsp;Difficulty concentrating, hypervigilance, restlessness, slow reaction time.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Supplements</strong></strong></p>
+<p class="pageBreak">&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td colspan="4" width="100.0000%">
+<p>Serotonin Boosters</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p>&nbsp;</p>
+</td>
+<td width="19.4800%">
+<p><strong><strong>Minor Deficit (0-5)</strong></strong></p>
+</td>
+<td width="24.2200%">
+<p><strong><strong>Moderate Deficit (6-15)</strong></strong></p>
+</td>
+<td width="19.8400%">
+<p><strong><strong>Major Deficit (15+)</strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Calcium</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>500 mg</p>
+</td>
+<td width="24.2200%">
+<p>750 mg</p>
+</td>
+<td width="19.8400%">
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Fish oil (pharmaceutical grade)</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>500 mg</p>
+</td>
+<td width="24.2200%">
+<p>1000 mg</p>
+</td>
+<td width="19.8400%">
+<p>2000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>5-HTP (with decarboxylase inhibitor)</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>100 mg</p>
+</td>
+<td width="24.2200%">
+<p>200 mg</p>
+</td>
+<td width="19.8400%">
+<p>500 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Magnesium</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>200 mg</p>
+</td>
+<td width="24.2200%">
+<p>400 mg</p>
+</td>
+<td width="19.8400%">
+<p>600 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Melatonin (at night)</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>1/3 mg</p>
+</td>
+<td width="24.2200%">
+<p>1/2-2 mg</p>
+</td>
+<td width="19.8400%">
+<p>1-6 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Passionflower</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>200 mg</p>
+</td>
+<td width="24.2200%">
+<p>500 mg</p>
+</td>
+<td width="19.8400%">
+<p>1000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Pyridoxine</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>5 mg</p>
+</td>
+<td width="24.2200%">
+<p>10 mg</p>
+</td>
+<td width="19.8400%">
+<p>50 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>SAM-e</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>50 mg</p>
+</td>
+<td width="24.2200%">
+<p>100 mg</p>
+</td>
+<td width="19.8400%">
+<p>200 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>St. John&rsquo;s Wort</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>200 mg</p>
+</td>
+<td width="24.2200%">
+<p>400 mg</p>
+</td>
+<td width="19.8400%">
+<p>600 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Tryptophan (prescription)</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>500 mg</p>
+</td>
+<td width="24.2200%">
+<p>1000 mg</p>
+</td>
+<td width="19.8400%">
+<p>1500-2000 mg</p>
+</td>
+</tr>
+<tr>
+<td width="36.4600%">
+<p><strong><strong>Zinc</strong></strong></p>
+</td>
+<td width="19.4800%">
+<p>15 mg</p>
+</td>
+<td width="24.2200%">
+<p>30 mg</p>
+</td>
+<td width="19.8400%">
+<p>45 mg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Food</strong></strong></p>
+<p>&nbsp;</p>
+<p>For many conditions&mdash;especially those present in the early stages of a deficiency &mdash;you don&rsquo;t need a doctor to restore and maintain your serotonin balance. You can restore your edge yourself with nature-specific diet, vitamin, and supplement choices.</p>
+<p>The easiest and most natural way to keep your serotonin nature balanced is by making better food choices when you eat. The goal of a serotonin-balancing diet is to ensure that the body has enough tryptophan, an amino acid that can be converted to serotonin in the body. Tryptophan is found in many protein-rich foods, such as turkey, and naturally helps your body fall asleep. This is one of the reasons why you feel so satisfied, and tired, after a Thanksgiving meal. By ingesting enough tryptophan, you&rsquo;ll soon be able to discard any sleeping pill you&rsquo;ve been taking.</p>
+<p>Adults need about 200 mg. of tryptophan a day, though the body&rsquo;s need for tryptophan decreases with age. By eating foods high in tryptophan, it is easy to consume that amount. For example, there are 400 mg. of tryptophan in just one cup of wheat germ. A cup of low-fat cottage cheese contains 300 mg. of tryptophan, and a pound of chicken or turkey contains up to 600 mg.</p>
+<p>The following is a list of foods that contain significant amounts of tryptophan. If you are trying to increase your serotonin levels, incorporate as many of these foods as possible into your diet each day. Be sure to round out a high-protein meal with lots of additional fruits and vegetables, even if they don&rsquo;t appear on the list below. You may also drink any noncarbonated, nonalcoholic, sugar-free beverage you prefer.</p>
+<p>THE SEROTONIN DIET: TRYPTOPHAN FOODS</p>
+<p>FOOD Avocado Cheese Chicken Chocolate Cottage cheese Duck</p>
+<p>Egg<br />Granola Luncheon meat Oat flakes Pork<br />Ricotta</p>
+<p>AMOUNT 1<br />1 oz.<br />6&ndash;8 oz.</p>
+<p>1 cup 1 cup 6&ndash;8 oz. 1</p>
+<p>1 cup 6&ndash;8 oz. 1 cup 6&ndash;8 oz. 1 cup</p>
+<p>CONTENT (G) 0.40<br />0.09<br />0.28</p>
+<p>0.11 0.40 0.40 0.40 0.20 0.50 0.20 1.00 0.30</p>
+<p>Sausage meat Turkey Wheat germ Whole milk Wild game Yogurt</p>
+<p>6&ndash;8 oz. 0.30 6&ndash;8 oz. 0.37 1 cup 0.40 1 cup 0.11 6&ndash;8 oz. 1.15 1 cup 0.05</p>
+<p>&nbsp;</p>
+<p><strong><strong>DEFICIENCY CRAVINGS </strong></strong></p>
+
+<p>Those with serotonin natures, especially where there is a deficit, will crave simple carbohydrates such as pastas and rice, as well as salt, all of which promote the release of stored serotonin, producing the expected serenity high. However, too much sodium is extremely bad for the body, especially if you have high blood pressure, and too many simple carbohydrates will lead directly to weight gain. Salt, salty snacks, and simple carbohydrates should be avoided.</p>
+<p>An equally important issue for serotonin natures is limiting alcoholic beverages. While they can be tempting and definitely help you keep your edge, their long-run effects can be devastating. Limiting your alcohol intake to two drinks per day no more than twice a week will keep you satisfied without damaging your brain and body.</p>
+<p>&nbsp;</p>
+<p><strong><strong>SEROTONIN-BOOSTING DIET </strong></strong></p>
+<p>If your serotonin nature has been diminishing, or if you are trying to enhance this biochemical as complementary to another nature, try this diet. These menus span three days and can give you an idea of the foods you can eat that will increase your serotonin. How often you repeat this diet depends on your deficiency level. If you have a minor deficiency, then you should follow a three- day course once a month. If you have a moderate deficiency, you should follow this once a week. An extreme deficiency requires at least six days a week of this specific diet.</p>
+<p>The main components of this diet are protein foods high in tryptophan, as well as complex carbohydrates.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>ALLERGIES: LOW-HISTAMINE DIET AND LOW-SEROTONIN DIET</p>
+<p>Serotonin deficiencies often occur as allergies. There is some evidence that a diet that eliminates additives and foods high in histamines may lessen the severity of allergic reactions. If you have allergies or have experienced symptoms related to allergies, including sneezing, congestion, and watery eyes, you might want to consider the following lists of permitted foods and of foods to avoid.</p>
+<p>PERMITTED</p>
+<p>&nbsp;</p>
+<p>&nbsp;Beverages: fresh milk, tea, homemade fruit juice, mineral water</p>
+<p>Cereals: freshly baked breads and cereals (not packaged)</p>
+<p>Condiments: salt, pepper; other condiments to be taken only as dried leaves; vinegar only if label indicates no additives</p>
+<p>Fats: butter, olive oil</p>
+<p>Fruits: any in moderate quantities (many contain natural salicylates)</p>
+<p>Meats: fresh meat, eggs, and fish only, in small quantities (no luncheon meats)</p>
+<p>Sweets: homemade only, without additives</p>
+<p>Vegetables: any in fresh state except beans, spinach, and cabbage (including sauerkraut); tomatoes permitted in moderation</p>
+<p>AVOID</p>
+<p>Food items likely to have additives: colored beverages, wines and other alcoholic beverages, artificial sweeteners, luncheon meats, ice cream, many yogurts, and ready-made, commercially available desserts</p>
+<p>Other items: colored toothpaste, colored cosmetics</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Lifestyle</strong></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A serotonin-nature diet with supplements is part of a healthy lifestyle that can tether you so you don&rsquo;t completely drift away. Additionally, be sure to include regular aerobic exercise. Exercise is important for the serotonin nature because it resets the brain just as sleep does. Use the exercise in the GABA chapter as a starting point. Because serotonin natures enjoy physical activity, try different ways to modify the exercise to changes things around for you. Make sure that no matter what type of aerobic activity you pick, you keep it up for at least thirty minutes three times a week. If you need to be around people in order to motivate you to exercise, join a gym.</p>
+<p>The risk of the serotonin nature is that while you&rsquo;re so focused on enjoying yourself today, you don&rsquo;t consider how you will feel tomorrow. So while you don&rsquo;t have to become something you&rsquo;re not, a squirrel saving acorns for winter, you do have to learn that you can&rsquo;t do everything you want all of the time! You&rsquo;ll never be in danger of becoming a hermit. But let someone else be the life</p>
+<p>of the party once in a while, so you&rsquo;ll be around&mdash;in mind and body&mdash;to enjoy all the parties.</p>
+<p>A serotonin nature can always stand a little introspection. Adding spirituality to your activity-laden days&mdash;whether in the form of prayer, meditation, yoga, or chanting&mdash;would establish your connection to something other than yourself. A feeling of peace and calm allows your brain some time to rest, to restore itself while awake.</p>
+<p>EXERCISE: MEDITATION THROUGH CHANTING</p>
+<p>A chanting exercise is great for a serotonin nature: it shuts your thinking pattern off, blocks negative thoughts, and slows the mind and body down in order to resynchronize. With a chanting meditation, you can get all of the advantages of sleeping while you are awake. The following exercise is a simple rhythmic chant. Follow the directions until you know this chant by heart. Then feel free to play around with your own internal message.</p>
+<p>Lie on the floor in a room with a comfortable temperature. Don&rsquo;t lie in bed or relax on the couch: you are not supposed to fall asleep! Set a timer for five minutes and relax.</p>
+<p>Close your eyes. Inhale through your nose as much air as your lungs can hold. Hold for a count of two, and then forcefully release all of the air in your lungs. Repeat for a total of five deep breaths.</p>
+<p>Clear your mind of all extraneous thoughts. With your eyes still closed, say the following phrase aloud: &ldquo;Life is the sum of its parts. I deserve to be healthy and happy.&rdquo; Repeat the phrase slowly, over and over, following the same cadence, until the timer rings.</p>
+<p>Open your eyes. Again inhale through your nose as much air as your lungs can hold. Hold for a count of two, and then forcefully release all of the air in your lungs. Repeat for a total of five deep breaths.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><strong>Environment</strong></strong></p>
+<p>&nbsp;</p>
+<p>Your serotonin balance is particularly sensitive to the adverse effects of PCBs, pesticides, and certain chemicals found in plastics, because the neuron damage caused by exposure to these hazards can make you unable to rest. Rinse all of your food, especially fruit, thoroughly. Be observant about pesticide spraying if you live near or visit farms. Never go near burning plastics. As for PCBs, be</p>
+<p>cognizant of where your fish comes from, opting for wild fish whenever possible, and drink water only from reputable bottlers or after it has been filtered. Bearing in mind warnings about mercury in fish, try to avoid the following: Atlantic halibut, king mackerel, Gulf Coast oysters, pike, sea bass, shark, swordfish, tile fish (golden snapper), and tuna (steaks and canned albacore).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The results of the Braveman Test can be considered a Proxy measure. A proxy is an indirect measure of the desired outcome which is itself strongly correlated to that outcome. It is commonly used when direct measures of the outcome are unobservable and/or unavailable.</p>
+<p>&nbsp;</p>
+<p>The information the Braverman Test&nbsp;provides is for educational and informational use only. The information is not intended to be used by the customer for any diagnostic purpose and is not a substitute for professional medical advice. You should always seek the advice of your physician or other healthcare providers with any questions you may have regarding diagnosis, cure, treatment, mitigation, or prevention of any disease or other medical condition or impairment or the status of your health.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+     <script src="https://unpkg.com/chart.js@2.8.0/dist/Chart.bundle.js"></script>
+     <script src="https://unpkg.com/chartjs-gauge@0.3.0/dist/chartjs-gauge.js"></script>
+     <script src="https://unpkg.com/chartjs-plugin-datalabels@0.7.0/dist/chartjs-plugin-datalabels.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script>
+          let chart1 = document.getElementById("Dopamine-deficiency-chart").getContext('2d');
+          let chart2 = document.getElementById("Acetylcholine-deficiency-chart").getContext('2d');
+          let chart3 = document.getElementById("GABA-deficiency-chart").getContext('2d');
+          let chart4= document.getElementById("Serotonin-deficiency-chart").getContext('2d');
+     
+  new ApexCharts(document.querySelector("#sources"), {
+    chart: {
+      animations: { enabled: false },
+      toolbar: { show: false },
+      type: 'donut',
+      width: 500
+    },
+    dataLabels: { enabled: true },
+    colors:["#FF0000", "#FFFF00", "#A020F0", "#00FF00"],
+    labels: $docPayload.donutChart.labels,
+    series: $docPayload.donutChart.values,
+    legend: { position: 'top' }
+  })
+  .render();
+
+   let options = {
+          series: [{
+               label: "Deficiencies",
+               data: $docPayload.barChart.data,
+          }],
+          chart: {
+               animations: { enabled: false },
+               toolbar: { show: false },
+               type: 'bar',
+               height: 350,
+               width: 550,
+          },
+          plotOptions: {
+               bar: {
+                    borderRadius: 4,
+               }
+          },
+          title: {
+               text: "Deficiencies",
+               align: "center",
+               style: {
+                fontSize: "12px"
+               }
+          },
+          legend: {
+               show: false,
+               position: 'top',
+               name: "dasdasd",
+
+          },
+          dataLabels: {
+               enabled: true
+          },
+          xaxis: {
+               categories: $docPayload.barChart.labels,
+          }
+     };
+
+     let chart = new ApexCharts(document.querySelector("#barChart"), options);
+     chart.render();
+     
+     
+    
+      function genrateGaugeChart(ctx,data,value,label){
+          var config = {
+               type: 'gauge',
+               data: {
+                    labels: ['Minor', 'Moderate', 'Major', 'Severe'],
+                    datasets: [{
+                         data: data,
+                         value: value,
+                         backgroundColor: ['#6baa01', '#f8bd19', '#EE7D13', '#e44a00'],
+                         borderWidth: 2
+                    }]
+               },
+               options: {
+                    responsive: true,
+                    title: {
+                         display: true,
+                         text: label
+                    },
+                    layout: {
+                         padding: {
+                              bottom: 20
+                         }
+                    },
+                    needle: {
+                         // Needle circle radius as the percentage of the chart area width
+                         radiusPercentage: 2,
+                         // Needle width as the percentage of the chart area width
+                         widthPercentage: 2.2,
+                         // Needle length as the percentage of the interval between inner radius (0%) and outer radius (100%) of the arc
+                         lengthPercentage: 25,
+                         // The color of the needle
+                         color: 'rgba(0, 0, 0, 1)'
+                    },
+                    valueLabel: {
+                         display: false
+                    },
+                    plugins: {
+                         datalabels: {
+                              display: true,
+                              formatter: function (value, context) {
+                                   return context.chart.data.labels[context.dataIndex];
+                              },
+                              //color: function (context) {
+                              //  return context.dataset.backgroundColor;
+                              //},
+                              color: 'rgba(0, 0, 0, 1.0)',
+                              //color: 'rgba(255, 255, 255, 1.0)',
+                              backgroundColor: null,
+                              font: {
+                                   size: 13,
+                                   weight: 'bold'
+                              }
+                         }
+                    }
+               }
+          };
+           window.myGauge = new Chart(ctx, config);
+      }
+      genrateGaugeChart(chart1,[5,8,15,25],$docPayload.DopamineDeficiency,"Dopamine deficiency");
+      genrateGaugeChart(chart2,[5,8,15,24],$docPayload.AcetylcholineDeficiency,"Acetylcholine deficiency");
+      genrateGaugeChart(chart3,[5,8,15,40],$docPayload.GABaDeficiency,"GABA deficiency");
+      genrateGaugeChart(chart4,[5,8,15,25],$docPayload.SerotoninDeficiency,"Serotonin deficiency")
+      
+</script>
+
